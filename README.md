@@ -1,1 +1,1 @@
-# FinalProject
+   ## This application begins by requesting input from the user. Once the information has been provided, the application changes it to a coded form utilizing the base-64 group of binary-to-text encoding techniques. In addition, it performs a specific calculation to determine the number of characters in the encoded data. The program notifies the user whether the encoded data is safe or risky to use in systems based on the length of the encoded data.
